@@ -1,1 +1,2 @@
 # SentimentAnalysisofMovieReviews
+Natural Language Processing task to predict sentiments of movie reviews. Several parametric and non-parametric Supervised Machine learning models have been used including K-nearest neighbors, logistic regression, stochastic gradient descent, support vector machines among others. Cross-validation and hyperparameter tuning was done using GridSearchCV on the same. The Sklearn library was primarily used.
